@@ -7,7 +7,7 @@ datasource from https://newsapi.org/
 - Retrofit + okhttp + rxjava
 
 #some images
-![home](/images/home.png)
-![new feeds](/images/feeds.png)
-![register](/images/register.png)
-![signout](/images/signout.png)
+![home](https://github.com/anlethanh3/newsapi/blob/master/images/home.png)
+![new feeds](https://github.com/anlethanh3/newsapi/blob/master/images/feeds.png)
+![register](https://github.com/anlethanh3/newsapi/blob/master/images/register.png)
+![signout](https://github.com/anlethanh3/newsapi/blob/master/images/signout.png)

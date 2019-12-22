@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">news</string>
+    <string name="app_name">An_Le_Thanh News Api Demo</string>
     <string name="apiKey">ff74d78dab9c4ac3944e4c4ba1e5219c</string>
     <string name="headlines">Headlines</string>
     <string name="news">News</string>

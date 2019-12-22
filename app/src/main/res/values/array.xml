@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="keyword_array">
+        <item>bitcoin</item>
+        <item>apple</item>
+        <item>earthquake</item>
+        <item>animal</item>
+    </string-array>
+</resources>
